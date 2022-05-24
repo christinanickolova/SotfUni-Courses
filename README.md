@@ -1,2 +1,2 @@
-# SotfUni-Courses
-Courses from my education @ SoftUni.
+# SotfUni Courses
+*Courses from my education @ SoftUni.*
